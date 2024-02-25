@@ -1,7 +1,3 @@
-# AWS-Terraform-Three-Tier-Web-Architecture
-
-![WhatsApp Image 2023-07-07 at 03 34 46](https://github.com/Janvi-Thakkar/AWS-Terraform-Three-Tier-Web-Architecture/assets/55620053/eeddf047-db3f-4ff1-80a6-7d7cb1652257)
-
 ## Requirements
 
 | Name | Version |
